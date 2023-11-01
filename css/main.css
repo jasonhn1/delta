@@ -165,7 +165,7 @@ nav.navbar.navbar-default.navbar-expand-lg.fixed-top.bottom-bar {
 
 	animation: fadeRight 1.5s ease-in-out; 
 
-	animation-delay: 2.5s;
+	animation-delay: .75s;
 	opacity: 0;
     animation-fill-mode: forwards;  
 }
@@ -198,7 +198,7 @@ nav.navbar.navbar-default.navbar-expand-lg.fixed-top.bottom-bar {
 	white-space: nowrap;
 
 	animation: fadeRightEs 1.5s ease-in-out; 
-	animation-delay: 2.5s;
+	animation-delay: .75s;
 	opacity: 0;
     animation-fill-mode: forwards; 
 }
@@ -259,7 +259,7 @@ nav.navbar.navbar-default.navbar-expand-lg.fixed-top.bottom-bar {
 	margin: 60px;
 	z-index: 5;
 	animation: fadeLeft 1.5s ease-in-out; 
-	animation-delay: 2.5s;	
+	animation-delay: .75s;	
 	opacity: 0;
     animation-fill-mode: forwards; /* This ensures the final animation state is maintained */
 
@@ -429,7 +429,7 @@ nav.navbar.navbar-default.navbar-expand-lg.fixed-top.bottom-bar {
 	margin-top: 120px;
 }
 
-.explore:hover{
+.explore-btn:hover{
 	transform: translate(10px, -10px) ;
 }
 
@@ -1188,7 +1188,7 @@ strong {
 	background-color: rgba(0, 0, 0, 0.5);
 	white-space: nowrap;
 	animation: fadeUp 1.5s ease-in-out; 
-	animation-delay: 2.5s;
+	animation-delay: .75s;
 	opacity: 0;
     animation-fill-mode: forwards; /* This ensures the final animation state is maintained */
 
