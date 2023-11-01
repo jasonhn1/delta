@@ -155,7 +155,7 @@ nav.navbar.navbar-default.navbar-expand-lg.fixed-top.bottom-bar {
 	letter-spacing: 4px;
 	z-index: 3;
 	transform: translateY(50%);
-
+	
 	background-color: #000000af;
 	text-align: right;
 	padding: 20px;
@@ -164,7 +164,7 @@ nav.navbar.navbar-default.navbar-expand-lg.fixed-top.bottom-bar {
 	word-spacing: 5px;
 
 	animation: fadeRight 1.5s ease-in-out; 
-
+	font-weight: 800;
 	animation-delay: .75s;
 	opacity: 0;
     animation-fill-mode: forwards;  
